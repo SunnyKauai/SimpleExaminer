@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SimpleExaminer/SimpleExaminer.csproj" />
+  <Project Path="SimpleExaminerLibrary/SimpleExaminerLibrary.csproj" />
+</Solution>
