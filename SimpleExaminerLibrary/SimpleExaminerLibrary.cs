@@ -1,22 +1,7 @@
 ﻿namespace SimpleExaminerLibrary
 {
-    public class SimpleExaminerLibrary
+    public class SELib
     {
-        SimpleExaminerLibrary(string language) 
-        {
-            switch (language) 
-            {
-                case "Chinese":
-                    Chinese();
-                    break;
-                default:
-                    break;
-            }
-        }
 
-        void Chinese()
-        {
-
-        }
     }
 }

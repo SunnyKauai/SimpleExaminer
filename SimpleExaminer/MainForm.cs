@@ -1,3 +1,4 @@
+using SimpleExaminerLibrary;
 namespace SimpleExaminer
 {
     public partial class MainForm : Form
@@ -5,6 +6,8 @@ namespace SimpleExaminer
         public MainForm()
         {
             InitializeComponent();
+            SELib seLib = new SELib();
         }
+
     }
 }
